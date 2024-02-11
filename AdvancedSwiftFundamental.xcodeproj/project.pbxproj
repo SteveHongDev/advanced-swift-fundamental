@@ -12,12 +12,14 @@
 		492562792B57B2FA009F16AD /* Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocols.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4925627A2B57B329009F16AD /* Enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enums.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4994E5D92B6A323100F51BEA /* SOLIDArchitecture.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SOLIDArchitecture.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49D89A0A2B7853B70047AE24 /* Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Extensions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		492562722B57B2CD009F16AD = {
 			isa = PBXGroup;
 			children = (
+				49D89A0A2B7853B70047AE24 /* Extensions.playground */,
 				49237C3D2B6B7CD4005700B5 /* HigherOrderFunctions.playground */,
 				49237C3C2B6B665C005700B5 /* Classes.playground */,
 				492562792B57B2FA009F16AD /* Protocols.playground */,

@@ -1,5 +1,5 @@
 /*
- Module 13 - Classes
+ Classes
  
  Classes in Swift:
  
